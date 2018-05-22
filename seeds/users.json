@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "None",
+    "lastname": "None",
+    "username": "guest",
+    "email": "None",
+    "password": "password",
+    "category": "visitor",
+    "createdAt": "2018-3-21",
+    "updatedAt": "2018-3-21"
+  },
+  {
+    "firstname": "John",
+    "lastname": "Doe",
+    "username": "john-doe",
+    "email": "john.doe@email.com",
+    "password": "password",
+    "category": "admin",
+    "createdAt": "2018-3-21",
+    "updatedAt": "2018-3-21"
+  },
+  {
+    "firstname": "Bruce",
+    "lastname": "Wayne",
+    "username": "bruce-wayne",
+    "email": "bruce.wayne@email.com",
+    "password": "batman",
+    "category": "user",
+    "createdAt": "2018-3-22",
+    "updatedAt": "2018-3-22"
+  }
+]
