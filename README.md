@@ -17,15 +17,16 @@ The app will automatically reload thanks to the [nodemon](https://github.com/rem
 - Node.js
 - Express.js
 - Mongoose
+- MongoDB
 - Passport.js and Bcrypt for security
 
 ## Database population
 
-1. You may install [MongoDB](https://www.mongodb.com) or use [mLab](https://mlab.com) for instance. 
+1. You may install [MongoDB](https://www.mongodb.com) or also use [mLab](https://mlab.com) for instance. 
 
 2. Create a database with appropriate table names. 
 
 3. Install node-mongo-seeds :
   `npm install -g node-mongo-seeds`
 
-4. Run `seed` in order to populate the database with data from the `seeds`folder.
+4. Run `seed` from the app directory in order to populate the database with data from the `seeds`folder.
